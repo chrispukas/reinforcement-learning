@@ -6,7 +6,7 @@ Projects following the chapters in Richard S. Sutton and Andrew G. Barto's *Rein
 - [x] Chapter 1: Introduction
 
 ### I. Tabular Solution Methods
-- [ ] Chapter 2: Multi-armed Bandits
+- [x] Chapter 2: Multi-armed Bandits
 - [ ] Chapter 3: Finite Markov Decision Processes
 - [ ] Chapter 4: Dynamic Programming
 - [ ] Chapter 6: Temporal-Difference Learning
